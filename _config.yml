@@ -1,9 +1,9 @@
 # Site settings
-title: Katy DeCorah
-email: kdecorah@albany.edu
-description: Katy is a front-end developer from New York.
-url: katystudent.github.io
-github_username: katystudent
+title: Matthew Toledo
+email: mtoledo@albany.edu
+description: Matt is an INF student from New York.
+url: matthewtoledo.github.io
+github_username: matthewtoledo
 
 # Build settings
 markdown: kramdown
